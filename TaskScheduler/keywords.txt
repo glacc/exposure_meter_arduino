@@ -1,0 +1,30 @@
+# Datatypes
+
+Task            KEYWORD3
+TaskScheduler   KEYWORD1
+
+# Methods and functions
+
+CurrentTask         KEYWORD2
+
+Init                KEYWORD2
+AddTask             KEYWORD2
+SuspendTask         KEYWORD2
+ResumeTask          KEYWORD2
+EndTask             KEYWORD2
+
+Run                 KEYWORD2
+Yield               KEYWORD2
+Delay               KEYWORD2
+Suspend             KEYWORD2
+
+ReSetupSystemTimer  KEYWORD2
+NextTask            KEYWORD2
+
+# Instances (KEYWORD2)
+
+
+
+# Constants (LITERAL1)
+
+
